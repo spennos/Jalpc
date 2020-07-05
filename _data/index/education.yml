@@ -27,5 +27,5 @@
     i18n: school_b_date
   job:
     detail: B.S., Bioengineering
-    i18n: company_b_job
+    i18n: school_b_job
   icon: fa-plus-square
