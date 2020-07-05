@@ -4,7 +4,7 @@
     detail: Citi
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: Markets Trade Surveillance Technology, New York, NY
     i18n: company_a_desc
   date:
     detail: Feb. 2017 - Nov. 2019
@@ -19,13 +19,13 @@
     detail: The Data Incubator
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Data Science Fellowship, San Francisco, CA
     i18n: company_b_desc
   date:
     detail: Sep. 2016 - Nov. 2016
     i18n: company_b_date
   job:
-    detail: Completed Data Science incubator
+    detail: Data Science Fellow
     i18n: company_b_job
   icon: fa-plus-square
 
@@ -33,7 +33,7 @@
     detail: Citi
     i18n: company_c
   desc:
-    detail: I worked at Company C ...
+    detail: Markets Trade Surveillance Technology, New York, NY
     i18n: company_c_desc
   date:
     detail: Sep. 2012 - Mar. 2016
