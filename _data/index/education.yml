@@ -1,0 +1,31 @@
+# education section data
+
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Lehigh University
+    i18n: school_a
+  desc:
+    detail: Research Focus: Thermophysical Properties of Molten Nitrate Salts for Concentrated Solar Power Applications
+    i18n: school_a_desc
+  date:
+    detail: Sep. 2010 - May 2012
+    i18n: school_a_date
+  job:
+    detail: M.S., Mechanical Engineering
+    i18n: school_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
+    detail: Lehigh University
+    i18n: school_b
+  desc:
+    detail: Research Focus: Nanofluidic Filtration Devices using Anodic Alumina Oxides for Remote Point-of-Care Dialysis
+    i18n: school_b_desc
+  date:
+    detail: Sep. 2006 - May 2010
+    i18n: school_b_date
+  job:
+    detail: B.S., Bioengineering
+    i18n: company_b_job
+  icon: fa-plus-square
