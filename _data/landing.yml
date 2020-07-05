@@ -13,9 +13,9 @@
   css: timeline
 
 - id: education
-  i18n: nav.education
+  i18n: nav.career
   name: Education
-  tpl: education.html
+  tpl: career.html
   css: timeline
   
 - id: skills
